@@ -1,0 +1,72 @@
+Início
+	colocar pó
+	Coloar água
+	ligar a cafeteira
+	aguardar	
+	O café esta pronto?
+	Sim
+	beber café
+	Pronto
+
+Fluxograma: https://drive.google.com/file/d/1K3R50zH0cJ2HrTvrSnVlC8bHmVivpp5l/view?usp=sharing
+
+
+#######################################################################
+
+**Python** é uma linguagem de programação extremamente versátil e popular, com uma variedade de aplicações. Aqui estão algumas das principais aplicações do Python¹:
+
+1. **Desenvolvimento Web**: Python é amplamente utilizado no desenvolvimento web. Frameworks como Django e Flask, baseados em Python, são muito populares para o desenvolvimento web¹.
+2. **Ciência de Dados**: Python é uma linguagem de escolha para a ciência de dados, incluindo machine learning e análise de dados. Bibliotecas populares incluem scikit-learn e TensorFlow para machine learning, e Matplotlib para análise de dados¹.
+3. **Scripting**: Python é adequado para escrever pequenos programas projetados para automatizar tarefas¹.
+
+**Java** é outra linguagem de programação popular com uma ampla gama de aplicações. Aqui estão algumas das principais aplicações do Java⁴:
+
+1. **Aplicativos Empresariais**: Java é frequentemente usado para construir aplicativos empresariais em grande escala, incluindo sistemas de gerenciamento de banco de dados e back-end de sites.
+2. **Aplicativos Móveis**: Java era a linguagem padrão para o desenvolvimento de aplicativos Android até que o Kotlin se tornasse a linguagem preferida.
+3. **Aplicativos Web**: Java é usado no desenvolvimento de aplicativos web em servidores, incluindo sites e APIs.
+
+#######################################################################
+
+
+EXERCÍCIOS PARA SEGUNDA:
+1. Finalizar o calculo do bhaskara
+2. Faça um algoritmo que leia a idade de uma pessoa expressa em anos, meses e dias e mostre-a expressa apenas em dias.
+3. Faça um algoritmo que leia a idade de uma pessoa expressa em dias e mostre-a expressa em anos, meses e dias.
+4. Faça um algoritmo que leia as 3 notas de um aluno e calcule a média final deste aluno. Considerar que a média é ponderada e que o peso das notas é: 2,3 e 5, respectivamente.
+5. Faça um algoritmo que leia o tempo de duração de um evento em uma fábrica expressa em segundos e mostre-o expresso em horas, minutos e segundos.
+
+
+DESAFIO EXTRA:
+Escreva um algoritmo que leia 3 números inteiros e mostre o maior deles.
+
+#######################################################################
+
+Lista de Atividades para Segunda dia 6/11
+
+
+1. Dado o tamanho da base e da altura de um retângulo, calcular a sua área e o seu
+perímetro. OK
+
+2. Dado o tamanho do lado de um quadrado, calcular a área e o perímetro do mesmo. OK
+
+3. Dado o tamanho do raio de uma circunferência, calcular a área e o perímetro da mesma. OK
+
+4. Dado os três lados de um triângulo determinar o perímetro do mesmo. OK
+
+5. Ler um número inteiro e exibir o seu sucessor. ok
+
+6. Ler dois números inteiros e exibir o quociente (resultado da divusao) e o resto da divisão inteira entre eles. ok
+
+7. Dado que a fórmula para conversão de Fahrenheit para Celsius é C = 5/9 (F – 32), leia um 
+valor de temperatura em Fahrenheit e exiba em Celsius OK
+
+8. Faça um algoritmo que calcule e apresente o valor do volume de uma lata de óleo, dado seu raio e sua altura. (PESQUISE FÓRMULA DO VOLUME DO CILINDRO)
+
+
+DESAFIO:
+Faça um algoritmo que transforme uma velocidade fornecida em m/s pelo usuário para 
+Km/h. Para tal, multiplique o valor em m/s por 3,6.
+
+O algoritmo deve também informar quanto tempo irá levar uma viagem na velocidade média informada de São Paulo até o Rio de Janeiro.
+
+Dicas: Para converter de km/h para m/s divida a velocidade pelo fator 3,6. Considere a distância aproximada de São Paulo até o Rio de Janeiro como sendo de 435 km.
