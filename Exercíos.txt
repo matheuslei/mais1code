@@ -126,3 +126,17 @@ entre 29 e 38,9       entre 30 e 39,9       Obesidade moderada
 acima de 39            acima de 40           Obesidade mórbida
 
 *obs: formula para o imc é: peso dividido pela altura ao quadrado
+
+
+
+#######################################################################
+
+EXERCICIOS DESTA SEMANA (CONJUNTOS)
+
+1. Crie um script que cria uma lista com 10 nomes de pessoas e mostra na tela
+
+2. Crie um script que cria uma lista com os numeros de 1 a 50, e mostra na tela
+
+3. Utilizando os scripts anteriores, mostre agora a lista de nomes em ordem alfabetica, e a lista de numeros em ordem decrescente
+
+4. Crie um script, que simula uma fila de banco, utilize uma lista, em que 10 pessoas entraram nessa fila, e as duas primeiras foram atendidas. Mostre na tela o estado atual da fila (deve estar sem os dois primeiros)
