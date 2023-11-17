@@ -15,7 +15,7 @@ Serve como registro do meu progresso e recurso para outros alunos. </br>
 
 <h2>Introdução ao Python</h2>
 <ul>
-    <li>Instalação e ambiente de desenvolvimento.</li>
+    <li><a href="https://github.com/matheuslei/mais1code/blob/main/conteudo/introducao.md">Instalação e ambiente de desenvolvimento.</a></li>
     <li>Sintaxe básica: variáveis, tipos de dados, operadores.</li>
 </ul>
 
