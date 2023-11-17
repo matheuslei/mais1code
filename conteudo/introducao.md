@@ -14,22 +14,6 @@
 
 <h2>Ambiente de Desenvolvimento</h2>
 
-<h3>Anaconda</h3>
-
-<h4>Passo 1: Download e Instalação do Anaconda</h4>
-<p>Acesse <a href="https://www.anaconda.com/products/distribution">anaconda.com</a> e baixe a versão adequada do Anaconda para o seu sistema operacional.</p>
-<p>Execute o instalador e siga as instruções.</p>
-
-<h4>Passo 2: Ambiente Virtual (opcional, mas recomendado)</h4>
-<p>Crie um ambiente virtual usando o comando <code>conda create --name nome_do_ambiente python=x.x</code>.</p>
-<p>Ative o ambiente com <code>conda activate nome_do_ambiente</code>.</p>
-
-<h3>Jupyter Notebook</h3>
-
-<h4>Passo 1: Instalação via Anaconda (recomendado)</h4>
-<p>Se você instalou o Anaconda, o Jupyter Notebook já está incluído.</p>
-<p>Para instalar diretamente, use o comando <code>conda install -c conda-forge notebook</code>.</p>
-
 <h3>Visual Studio Code</h3>
 
 <h4>Passo 1: Download e Instalação</h4>
