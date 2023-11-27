@@ -133,7 +133,7 @@ acima de 39            acima de 40           Obesidade mórbida
 
 EXERCICIOS DESTA SEMANA (CONJUNTOS)
 
-1. Crie um script que cria uma lista com 10 nomes de pessoas e mostra na tela
+1. Crie um script que cria uma lista com 10 nomes de pessoas e mostra na tela ok
 
 2. Crie um script que cria uma lista com os numeros de 1 a 50, e mostra na tela
 
