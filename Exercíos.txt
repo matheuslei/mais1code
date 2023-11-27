@@ -139,4 +139,35 @@ EXERCICIOS DESTA SEMANA (CONJUNTOS)
 
 3. Utilizando os scripts anteriores, mostre agora a lista de nomes em ordem alfabetica, e a lista de numeros em ordem decrescente
 
+#######################################################################
+
+EXERCICIOS
+
+1. Crie uma lista com 10 números, uma lista com 5 palavras e uma lista com 3 listas dentro e cada uma delas contendo 3 numeros (uma matriz).
+Agora exiba na tela:
+- o numero na 7 posição da primeira lista
+- a ultima palavra da segunda lista
+- e o terceiro numero da segunda lista de dentro da matriz (lista de listas)
+
+2. Crie um dicionario com informacoes sobre uma materia de uma escola, contendo o nome, o semestre vigente, e uma coleção contendo todos os alunos matriculados (10).
+Agora mostre na tela o primeiro aluno em ordem alfabetica, matriculado nessa materia. Crie agora um novo dicionario que contenha as informações desse aluno que você pegou anteriormente, contendo seu nome (já previamente obtido), celular, e email
+
+#######################################################################
+
+EXERCICIOS
+1. crie uma lista com números de 1 a 1000 usando o while, e depois usando o for
+2 . crie uma lista com apenas os números pares de 0 a 2000 usando o while e depois usando o for
+3. crie uma lista iniciando no 1 que a cada iteração dobre o valor do contador, até que chegue em 1000 (com while e com for)
+4. crie uma lista com números de 1000 até 1 (mantendo essa ordem decrescente) com while e com for
+5 crie uma lista com apenas os números impares de 1 até 5000 com while e com for
+
 4. Crie um script, que simula uma fila de banco, utilize uma lista, em que 10 pessoas entraram nessa fila, e as duas primeiras foram atendidas. Mostre na tela o estado atual da fila (deve estar sem os dois primeiros)
+
+
+#######################################################################
+
+#######################################################################
+
+#######################################################################
+
+#######################################################################
